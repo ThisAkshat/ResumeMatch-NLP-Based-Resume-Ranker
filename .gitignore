@@ -1,0 +1,7 @@
+uploads/
+input resume/
+venv/
+__pycache__/
+*.pdf
+*.docx
+*.txt
