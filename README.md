@@ -1,7 +1,8 @@
-# ResumeMatch AI  
-### NLP-Based Resume Ranking System
+# ResumeMatch AI 
+### ML-Based Resume Ranking System
 
-ResumeMatch AI is a lightweight AI-powered web application that ranks multiple resumes against a given job description using Natural Language Processing (NLP). It helps recruiters and hiring teams quickly identify the most relevant candidates from a pool of CVs.
+ResumeMatch AI is a lightweight machine learning powered web application that analyzes a job description and ranks multiple resumes in bulk. It uses NLP techniques to calculate similarity and returns the top 3 most relevant CVs for faster and more efficient screening.
+
 
 ---
 
@@ -31,10 +32,10 @@ ResumeMatch AI is a lightweight AI-powered web application that ranks multiple r
 ## 📷 Screenshots
 
 ### Before
-![Before](before.png)
+![Before](Screenshots/Before.png)
 
 ### After (AI Output)
-![After](after(output).png)
+![After](Screenshots/after(output).png)
 
 ---
 
