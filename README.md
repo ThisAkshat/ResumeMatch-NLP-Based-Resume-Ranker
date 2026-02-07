@@ -99,5 +99,3 @@ AI, Backend Developer
 This is a mini-project built for learning and demonstration purposes.
 Future versions will include advanced NLP embeddings and cloud deployment.
 
-```
-```
