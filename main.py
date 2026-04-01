@@ -12,7 +12,7 @@ def extract_text_from_pdf(file_path):
         for page in reader.pages:
             text += page.extract_text()
             return text
-
+ 
 def extract_text_from_docx(file_path):
     return docx2txt.process(file_path)
 
